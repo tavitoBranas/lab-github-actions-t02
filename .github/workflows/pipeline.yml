@@ -1,4 +1,4 @@
-name: Pipeline DevOps
+name: Pipeline DevOps GUS 2
 
 on:
   push:
